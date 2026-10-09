@@ -1,0 +1,9 @@
+{
+  // ...
+  "vars": {
+    "DEFAULT_COLOR": "3380ff",
+    "DIRECT_MEDIA_DOMAINS": "oiledupsinnoh.com",
+    "HOST_URL": "[https://oiledupsinnoh.com](https://oiledupsinnoh.com)"
+  },
+  // ...
+}
