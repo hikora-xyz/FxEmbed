@@ -13,3 +13,8 @@ analytics_engine_datasets = [
  
 [build]
 command = "npm run build"
+
+[vars]
+HOST_URL = "https://oiledupsinnoh.com"
+DIRECT_MEDIA_DOMAINS = "oiledupsinnoh.com"
+DEFAULT_COLOR = "3380ff"
